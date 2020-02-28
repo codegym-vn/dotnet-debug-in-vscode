@@ -1,0 +1,11 @@
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/DebugInVSCode/bin/Debug/netcoreapp3.1/DebugInVSCode
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/DebugInVSCode/bin/Debug/netcoreapp3.1/DebugInVSCode.deps.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/DebugInVSCode/bin/Debug/netcoreapp3.1/DebugInVSCode.runtimeconfig.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/DebugInVSCode/bin/Debug/netcoreapp3.1/DebugInVSCode.runtimeconfig.dev.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/DebugInVSCode/bin/Debug/netcoreapp3.1/DebugInVSCode.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/DebugInVSCode/bin/Debug/netcoreapp3.1/DebugInVSCode.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/DebugInVSCode/obj/Debug/netcoreapp3.1/DebugInVSCode.csprojAssemblyReference.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/DebugInVSCode/obj/Debug/netcoreapp3.1/DebugInVSCode.AssemblyInfoInputs.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/DebugInVSCode/obj/Debug/netcoreapp3.1/DebugInVSCode.AssemblyInfo.cs
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/DebugInVSCode/obj/Debug/netcoreapp3.1/DebugInVSCode.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/DebugInVSCode/obj/Debug/netcoreapp3.1/DebugInVSCode.pdb
